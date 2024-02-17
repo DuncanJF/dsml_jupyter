@@ -5,7 +5,7 @@
 # Regression
 
 *  [Autoregressive Process Modeling via the Lasso Procedure](https://www.stat.cmu.edu/tr/tr862/tr862.pdf)
-*  [Lasso Regressions and Forecasting Models in Applied Stress Testing](file:///home/duncanfyfe/Downloads/wp17108.pdf)
+*  [Lasso Regressions and Forecasting Models in Applied Stress Testing](https://www.imf.org/-/media/Files/Publications/WP/2017/wp17108.ashx)
 *  [Variable Selection in Predictive Regressions](http://www.columbia.edu/~sn2294/papers/forecast.pdf)
 *  [Lasso vs. auto-arima for time series forecasting](https://medium.com/@michacukrowski/lasso-vs-auto-arima-for-time-series-forecasting-out-of-sample-944a8835eae0)
 *  [Regularisation vs. Auto-Arima for time series forecasting](https://medium.com/@michacukrowski/ridge-lasso-and-elastic-net-vs-d73e24208057)
